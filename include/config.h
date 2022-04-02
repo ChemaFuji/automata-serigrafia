@@ -1,5 +1,5 @@
 /***********************************************************************************
- *     Primera versión autómata serigrafía para Seritrade
+ *     Primera versión autómata serigrafía para Seritrade-
  * by Chema'22 v0.6RC
  * 
  * dos variadores de frecuencia 
