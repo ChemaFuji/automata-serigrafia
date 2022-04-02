@@ -1,0 +1,2 @@
+# automata-seritrade
+primera prueba
