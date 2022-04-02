@@ -1,2 +1,2 @@
-# automata-serigrafía
+# autómata-serigrafía
 primera prueba
