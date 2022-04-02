@@ -1,2 +1,2 @@
-# automata-seritrade
+# automata-serigrafía
 primera prueba
