@@ -1,11 +1,8 @@
 /***************************************************
- * By Chema'22 v0.61RC 2022-03-04, viernes GitHub2
- * Tercera versión alfa del sistema
- * pruebas de acceso a sensores
- * y variador de frecuencia motor
+ * By Chema'22 v0.62RC 2022-04-02,  
+ * Seginda versión nrta del sistema
+ * Seeguridad y pantalla
  * 
- * Rehacer todo el sistema de movimientos
- * al estilo KISS
  * Pasar a botón selector manual/pedal (semi-auto)
  * 
  * position = 0 atras-arriba    bajar=1
